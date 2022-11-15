@@ -1,2 +1,2 @@
-# athena
-Python Multitool
+# Athena
+A powerful swiss army python script.
